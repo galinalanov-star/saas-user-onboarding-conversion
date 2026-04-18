@@ -55,3 +55,6 @@ The funnel includes:
 - Identified critical drop-off stage in monetization
 - Provided insights to improve trial-to-paid conversion
 - Highlighted need for pricing or UX optimization
+  ## 📊 Additional Analysis
+
+👉 [Revenue Performance Dashboard](https://public.tableau.com/views/BusinessRevenueAnalysisDashboard/RevenuePerformanceOverview)
